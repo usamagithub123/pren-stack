@@ -25,5 +25,6 @@ Database: PostgreSQL
 State Management: zustand
 
 Authentication: JWT (JSON Web Tokens)
-![image alt]https://github.com/usamagithub123/pren-stack/blob/main/Screenshot%202025-02-11%20010831.png
+![image alt](https://raw.githubusercontent.com/usamagithub123/pren-stack/main/Screenshot%202025-02-11%20010831.png)
+
 
